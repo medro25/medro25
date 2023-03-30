@@ -4,4 +4,5 @@ My name is Amine, .I am passionate about Software development and data-driven te
 I was born in Casablanca, I currently live in Helsinki .
 
 
-![2CD95052-D18C-4361-ADAD-DBF43221AFC8 (1)](https://user-images.githubusercontent.com/58664810/228896559-08ef104b-cbd1-48bc-a975-2641fa7e959b.jpg)
+
+![2CD95052-D18C-4361-ADAD-DBF43221AFC8 (1)](https://user-images.githubusercontent.com/58664810/228897156-9e045264-39ea-412a-a3c3-49344eb1e8f6.jpg)
